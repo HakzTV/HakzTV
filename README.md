@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on an e-learning platform. <br>It would be awesome to collaborate with you. <br>I'm Currently learning React and Typescript<br><br>Fun fact i enjoy learning,  cooking and swimming .
+Im currently working on an e-commerce web app for one of the blooming fashion brands in ghana as well as a startup up company. <br>It would be awesome to collaborate with you. <br>I'm Currently trying to master GSAP and other animation libraries to add a little something to my work.<br><br>Fun fact about me. i enjoy learning,  cooking and swimming .
 
 
 ## 🌐 Socials:
