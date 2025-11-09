@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on a secure internal memo management platform designed for organizations to create, approve, and track internal communications. <br>I'm Currently trying to master GSAP and other animation libraries to add a little something to my work.<br><br>Fun fact about me. i enjoy learning,  cooking and swimming .
+Im currently working on a secure internal memo management platform designed for organizations to create, approve, and track internal communications. <br>I'm also trying to master GSAP and other animation libraries to add a little something to my work.<br><br>Fun fact about me. i enjoy learning,  cooking and swimming .
 
 
 ## 🌐 Socials:
